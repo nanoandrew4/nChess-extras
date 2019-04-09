@@ -1,2 +1,3 @@
 # nChess-extras
-Extras for the nChess project
+
+Contains extra files for the [nChess](https://github.com/nanoandrew4/nChess) project.
